@@ -1,4 +1,4 @@
-# Use Ubuntu as the base image
+# Use Java 21 as the base image
 FROM openjdk:21
 
 # Define o diretório de trabalho dentro do container
